@@ -35,6 +35,7 @@ Your job is to get as close to the design as possible.
 
 Profile Image (copy the url)
 ![](profile-picture.png)
+Image URL = https://raw.githubusercontent.com/Chimppen/web-ninja-exercises/master/easy/User-card/profile-picture.png
 
 <br>
 <br>
